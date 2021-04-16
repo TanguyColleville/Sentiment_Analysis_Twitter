@@ -1,0 +1,12 @@
+.TitleBlock {
+    position: sticky;
+    width: auto;
+    top: 0px;
+    background-color: #EEEEEE;
+    border-bottom: solid;
+    border-bottom-color: #adadad;
+    border-bottom-width: 2px;
+    margin-bottom: 50px;
+    margin-top: 0px;
+    z-index: 4;
+}
